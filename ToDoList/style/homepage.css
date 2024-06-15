@@ -1,0 +1,10 @@
+.title_section {
+  font-size: 35px;
+  text-shadow: 5px 10px grey;
+}
+
+.footer {
+  margin-top: 50px;
+  padding: 50px;
+  background-color: #9db8e3;
+}
